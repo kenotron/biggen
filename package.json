@@ -1,0 +1,8 @@
+{
+  "name": "biggen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kenotron/biggen.git",
+  "author": "Ken <kchau@microsoft.com>",
+  "license": "MIT"
+}
